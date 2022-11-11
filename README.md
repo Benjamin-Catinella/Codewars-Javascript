@@ -1,4 +1,5 @@
-# Codewars-Javascript
-Katas from codewars.com in Javascript
+## Codewars Javascript
+### From Benjamin Catinella
+Katas from https://www.codewars.com/
 
-[MyProfile](https://www.codewars.com/users/Benjamin%20.C)
+[My profile](https://www.codewars.com/users/Benjamin%20.C)
